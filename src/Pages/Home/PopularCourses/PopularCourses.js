@@ -23,7 +23,7 @@ const PopularCourses = () => {
         },
     ]
     return (
-        <div>
+        <div style={{margin:'0 20%'}}>
             <h1>Popular Courses</h1>
             <div className='popular-courses-container'>
                 {

@@ -28,7 +28,7 @@ const allCourse = () => {
     { img: python, name: 'Python', price: '2.5K' },
   ]
   return (
-    <div>
+    <div style={{margin:'0 10%'}}>
       <h1> All Course</h1>
       <div className='all-course-container'>
         {

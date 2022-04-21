@@ -11,6 +11,7 @@ const Navigation = () => {
             <a href="/popular-courses">Popular Courses</a>
             <a href="/all-course">All Course</a>
             <a href="/contact">Contact Us</a>
+            <button id='login'><a href="/login-registration">Login/Registration</a></button>
         </nav>
     );
 };
